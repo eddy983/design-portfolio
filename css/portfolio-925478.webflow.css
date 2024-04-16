@@ -564,7 +564,7 @@ p {
 .website-04 {
   justify-content: flex-end;
   margin-bottom: 80px;
-  display: flex;
+  display: none;
 }
 
 .website-01 {
