@@ -3073,6 +3073,7 @@ p {
 
   .work {
     padding-bottom: 60px;
+    margin-top: 0px;
   }
 
   .work._03 {
@@ -3763,6 +3764,7 @@ p {
 
   .p-single-hero-content-02 {
     min-height: 172px;
+    margin-top: 20px;
   }
 
   .project-rich-container {
@@ -4016,6 +4018,14 @@ p {
   .metric-item {
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .website-tag {
+    display: none;
+  }
+
+  .website-number-01 {
+    display: none;
   }
 }
 
