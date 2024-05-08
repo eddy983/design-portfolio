@@ -1443,7 +1443,7 @@ p {
 }
 
 .p-single-hero-content-02 {
-  object-fit: cover;
+  object-fit: contain;
   background-color: rgba(0, 0, 0, 0);
   flex: 0 50%;
   width: 100%;
@@ -2790,10 +2790,6 @@ p {
 
   .image-3 {
     right: -3%;
-  }
-
-  .p-single-hero-content-02 {
-    object-fit: fill;
   }
 
   .project-rich-container.flex-32 {
